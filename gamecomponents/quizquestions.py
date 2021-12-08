@@ -7,7 +7,7 @@ question = {
 
 "q2" : {
         "question": "Are you female?",
-        "yes" : 40,
+        "yes" : 45,
         "no" : 0
     },
 
